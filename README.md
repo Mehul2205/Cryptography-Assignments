@@ -8,33 +8,33 @@ These are the lab assignments performed during the course of cryptography
 
 * WAP in python to implement Euclidean algorithm to find the GCD.
 
-* WAP  in  python  to  implement extended Euclidean algorithm to find the GCDalong with s and t values.
+* WAP  in  python  to  implement extended Euclidean algorithm to find the GCD along with s and t values.
 
 * WAP   in   python   to   find   out   the   additive   and multiplicative inverse pairs of set Zn.
 
-* WAP   in   python   to   find   out   the   additive   and multiplicative  inverse  of  aninteger  b  using  extended Euclidean algorithmof set Zn.
+* WAP   in   python   to   find   out   the   additive   and multiplicative  inverse  of  an integer  b  using  extended Euclidean algorithmof set Zn.
 
 ## Lab 2
 
 * WAP to find the solutions of equations:
-    a.14x=12mod 18
-    b.3x+4=6 mod 132.
+``a.14x=12mod 18``
+``b.3x+4=6 mod 132.``
 
-* WAP  to  implement  Additive  cipher(key=20),  Multiplicative  cipher(key=15)and  affine  cipher(key=15,20).To encryptthe message “this is an exercise”.
+* WAP  to  implement  Additive  cipher(key=20),  Multiplicative  cipher(key=15)and  affine  cipher(key=15,20). To encrypt the message “this is an exercise”.
 
 * WAP to perform brute force attack on the cipher text“dvvkzecfssprkkve”.
 
 * WAP to perform brute force attack on the cipher text “YMJHFJXFWHNUMJWNXTSJTKYMJJFWQNJXYPSTBSFSIXNRUQJXYHNUMJWX”
 
-* WAP to use brute force attack to decipher the message :Assume Affine cipher is used and “ab”is encrypted by “GL”.
+* WAP to use brute force attack to decipher the message :Assume Affine cipher is used and “ab” is encrypted by “GL”.
 
 * WAP to perform statistical attack on the ciphertext:
 
-“ymnxhtzwxjfnrxytuwtanijdtzbnymijyfnqjipstbqjiljtknrutwyfsyyjhmstqtlnjxfsifuuqnhfyntsymfyfwjzxjinsymjnsyjwsjyizjytymjgwtfisfyzwjtkymnxknjqiymjhtzwxjhtajwxtsqdxjqjhyjiytunhxkthzxxnslknwxytsxtrjfiafshjiytunhxnsnsyjwsjyyjhmstqtlnjxjlbnwjqjxxqfsxrtgnqjnsyjwsjyrzqynhfxyfsiymjsfxjqjhyntstkhzwwjsyfsisjcyljsjwfyntsfuuqnhfyntsxfsixjwanhjxjluunuyaatnudtzbnqqqjfwsmtbymjnsyjwsjybtwpxfsimtbxjwanhjxfsifuuqnhfyntsxfwjuwtanijiytzxjwxtkymjnsyjwsjyymnxpstbqjiljbnqqmjqudtz”
+``ymnxhtzwxjfnrxytuwtanijdtzbnymijyfnqjipstbqjiljtknrutwyfsyyjhmstqtlnjxfsifuuqnhfyntsymfyfwjzxjinsymjnsyjwsjyizjytymjgwtfisfyzwjtkymnxknjqiymjhtzwxjhtajwxtsqdxjqjhyjiytunhxkthzxxnslknwxytsxtrjfiafshjiytunhxnsnsyjwsjyyjhmstqtlnjxjlbnwjqjxxqfsxrtgnqjnsyjwsjyrzqynhfxyfsiymjsfxjqjhyntstkhzwwjsyfsisjcyljsjwfyntsfuuqnhfyntsxfsixjwanhjxjluunuyaatnudtzbnqqqjfwsmtbymjnsyjwsjybtwpxfsimtbxjwanhjxfsifuuqnhfyntsxfwjuwtanijiytzxjwxtkymjnsyjwsjyymnxpstbqjiljbnqqmjqudtz``
 
 * WAP to perform statistical and pattern attack over the ciphertext:
 
-“ziolegxkltqodlzgofzkgrxetngxzgzithkofeohstlqfrzteifojxtlgyltexkofuegdhxztklqfregdhxztkftzvgkalvoziygexlgfofztkftzltexkoznzitegxkltoltyytezoctsnlhsozofzgzvghqkzlyoklzofzkgrxeofuzitzitgkngyeknhzgukqhinofesxrofuigvdqfnesqlloeqsqfrhghxsqkqsugkozidlvgkaturtlklqrouozqsloufqzxktlqfrltegfrhkgcorofurtzqoslgyktqsofztkftzltexkoznhkgzgegslqsugkozidlqfrziktqzltuohltecokxltlyoktvqsslitfetngxvossstqkfwgzizitgktzoeqsqlhtezlgyegdhxztkqfrftzvgkaltexkoznqlvtssqligvziqzzitgknolqhhsotrofzitofztkftzziolafgvstrutvossitshngxofrtloufofuqfrrtctsghofultexktqhhsoeqzogflqfrftzvgkahkgzgegslqlvtssqlwxosrofultexktftzvgkal”
+``ziolegxkltqodlzgofzkgrxetngxzgzithkofeohstlqfrzteifojxtlgyltexkofuegdhxztklqfregdhxztkftzvgkalvoziygexlgfofztkftzltexkoznzitegxkltoltyytezoctsnlhsozofzgzvghqkzlyoklzofzkgrxeofuzitzitgkngyeknhzgukqhinofesxrofuigvdqfnesqlloeqsqfrhghxsqkqsugkozidlvgkaturtlklqrouozqsloufqzxktlqfrltegfrhkgcorofurtzqoslgyktqsofztkftzltexkoznhkgzgegslqsugkozidlqfrziktqzltuohltecokxltlyoktvqsslitfetngxvossstqkfwgzizitgktzoeqsqlhtezlgyegdhxztkqfrftzvgkaltexkoznqlvtssqligvziqzzitgknolqhhsotrofzitofztkftzziolafgvstrutvossitshngxofrtloufofuqfrrtctsghofultexktqhhsoeqzogflqfrftzvgkahkgzgegslqlvtssqlwxosrofultexktftzvgkal``
 
 ## Lab 3
 
@@ -54,7 +54,7 @@ Vigenere cipher.
 
 * Create a key stream with linear feedback shift register with 4 cells in whichb4= b1 exor b0 Show the value of output for 20 transitions(if the seed is 0001).
 
-* Write a code toencrypt a message A Midsummer Night's Dream, which is a comedy written by Shakespeare.You have to use key: SWINDONand keyed transpositioncipher row-column. 
+* Write a code to encrypt a message A Midsummer Night's Dream, which is a comedy written by Shakespeare.You have to use key: SWINDONand keyed transpositioncipher row-column. 
 
 * Findthe  result  of  multiplying  P1=000100110and  P2=10011110 with  irreducible  polynomial100011010(nine bits).
 
@@ -64,9 +64,9 @@ Vigenere cipher.
 
 * Implement AES Algorithm by using the helping PDF.
 
-* Implement  a client  and  a  server on  different  computers.  Perform  the  communication  between these two entities by using RSA cryptosystem.
+* Implement  a client  and  a  server on  different  computers.  Perform  the  communication  between these two entities by using RSA cryptosystem. (Client.ipynb and Server.ipynb)
 
-* Implement  a  client  and  a  server  on  different  computers.  Perform  the  authentication  of  senderbetween these two entities by using RSA digital signature cryptosystem.
+* Implement  a  client  and  a  server  on  different  computers.  Perform  the  authentication  of  senderbetween these two entities by using RSA digital signature cryptosystem. (UDPClient.ipynb and UPDServer.ipynb)
 
 ## Lab 6
 
